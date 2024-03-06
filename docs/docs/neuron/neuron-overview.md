@@ -27,7 +27,7 @@ Neuron：https://github.com/nervosnetwork/neuron
 * 国内用户，建议使用国内镜像进行下载：
     * Windows：https://releases.nervos.org/Neuron-latest.exe 
     * macOS：https://releases.nervos.org/Neuron-latest.dmg 
-    * Linxu：https://releases.nervos.org/Neuron-latest.AppImage 
+    * Linux：https://releases.nervos.org/Neuron-latest.AppImage 
 
 * Github 下载：https://github.com/nervosnetwork/neuron/releases/latest
 
