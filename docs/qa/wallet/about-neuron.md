@@ -22,7 +22,7 @@ Neuron：https://github.com/nervosnetwork/neuron
 
     * Windows：https://mirror.ckb.dev/Neuron-latest.exe
     * macOS：https://mirror.ckb.dev/Neuron-latest.dmg
-    * Linxu：https://mirror.ckb.dev/Neuron-latest.AppImage
+    * Linux：https://mirror.ckb.dev/Neuron-latest.AppImage
 
 * Github 下载：https://github.com/nervosnetwork/neuron/releases/latest
 
